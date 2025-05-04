@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @fabio-adl
 - 👀 I’m interested in growing my skills
 - 🌱 I’m currently learning Hyku, Python, Drupal, Islandora, and AWS.
-- 💞️ I’m open to collaboration on various projects.
-- 📫 How to reach me adl@andrews.edu
